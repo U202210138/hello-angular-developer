@@ -1,6 +1,13 @@
-# HelloAngularDeveloper
+# hello-angular-developer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+## Summary
+Angular Sample Project. It demonstrates the use of Angular CLI to create a project, incluiding concepts like angular modules, components, with properties and events.
+
+## Prerequisites
+
+- Node.js
+- npm
+- Angular CLI
 
 ## Development server
 
